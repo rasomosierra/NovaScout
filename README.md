@@ -5,7 +5,7 @@ ejecutarse directamente en Arduino AppLab, facilitando la prueba, evolución y d
 1.LEDintermitente, programa básico que apaga y enciende un led.
 
 2. MatrizLED, programa que utiliza la matriz de leds de Arduino Q.
-3. 
+ 
 3.1 Bridge LED parpadea, programa que enciende y apaga un led pero cuando la orden viene desde la parte de Linux del microprocesador utilizando el bridge.
    
 3.2 Bridge 1 parámetro, programa para pasar un parámetro utilizando el bridge desde el microcontrolador hacia el microprocesador (parte Linux)
